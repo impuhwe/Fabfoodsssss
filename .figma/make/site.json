@@ -1,0 +1,11 @@
+{
+  "title": "TaskBoard — Organize work with your team",
+  "description": "Create team workspaces, organize task boards, and use AI to break big goals into clear, actionable tasks.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
